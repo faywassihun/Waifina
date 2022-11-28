@@ -1,0 +1,13 @@
+body{background-color: #212DE6 ;}
+h1{color: #21CEE6;font-family: "Apple Chancery";font-size: 42px; text-align: center; }
+p{color: #EDFAFE;font-family: "Times New Roman"; font-size: 12px; text-align: center;}
+img{border-width: 3px; border-color: #1E1F20; border-style: groove;}
+a{color: #ECF4F6 ; font-family: "Times New Roman"; font-size: 12px; text-decoration: none;}
+a:hover{color: #72ED17}
+ul{list-style-type: none;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
